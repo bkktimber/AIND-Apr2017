@@ -19,13 +19,13 @@ Sudoku Solver is the first project in my Artificial Intelligence Nanodegree. The
     There are many technique to solve sudoku problem. Below are techniques used in this solver 
 
   - **Elimination**
-   	 Find any cell in given Sudoku baord that contains a value. Then remove that value from other units in the same row and column. Repeat until no single value unit left in Sudoku baord
+    Find any cell in given Sudoku baord that contains a value. Then remove that value from other units in the same row and column. Repeat until no single value unit left in Sudoku baord
 
 	- **Only Choice**
-	   	  Find cells that contain only 1 possible value. Then assign that value to result.
+	  Find cells that contain only 1 possible value. Then assign that value to result.
 
-	   - **Naked Twins**
-		  Find cells pairs that contain exactly same 2 values. Choose one value from those 2 values then eleminate until there is no other number to eliminate.
+	- **Naked Twins**
+		Find cells pairs that contain exactly same 2 values. Choose one value from those 2 values then eleminate until there is no other number to eliminate.
 
 With strategies above, this Sudoku Solver is able to solve any sudoku question!
 
