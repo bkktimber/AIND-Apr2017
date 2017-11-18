@@ -2,8 +2,6 @@
 
 1. Synopsis
 
-### TODO : quick brief for what is Sudoku
-
 Sudoku Solver is the first project in my Artificial Intelligence Nanodegree. The objectives of this project are:
    
 - **Setup and Familiar with Working Environment**
@@ -31,8 +29,6 @@ With strategies above, this Sudoku Solver is able to solve any sudoku question!
 
 However, I also modified my solver to be able to solve _Diaagonal Sudoku_
 
-### TODO : explain what is Diagonal Sudoku
+2. Repository Structure
 
-2. Repo Structure
-
-   - `solution.py`: Sudoku solver that uses strategies describe above.
+   - `solution.py`: Sudoku solver
